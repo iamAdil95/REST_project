@@ -1,0 +1,29 @@
+h1 {
+    color: rgba(128, 0, 0, 0.822);
+    text-align: center;           /* added for centering title */
+}
+
+.post {
+    background-color: blanchedalmond;
+             
+}
+
+.username {
+    font-style: italic;
+}
+
+.content {
+    font-weight: lighter;
+    font-size: 1rem;              /* added to ensure consistent sizing */
+}
+button {
+   color: white; 
+   background-color: rgba(128, 0, 0, 0.54);
+   border: none;
+   border-radius: 4px;
+}
+a {
+    text-decoration: none;
+    margin-right: 8px;
+    color: blue;
+}
